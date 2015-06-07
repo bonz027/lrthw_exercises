@@ -6,3 +6,5 @@ completes the sentence as a whole.
 
 When you change the strings to single quote it does not work because single quotes are used for individual characters 
 and double quotes (from what I understand) is added for multiple string characters. 
+
+Fixed my rubocop offenses by changing double quotes to single for the 'binary' line and the w and e variable. 
